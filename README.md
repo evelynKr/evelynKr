@@ -1,17 +1,39 @@
 <img src="https://capsule-render.vercel.app/api?text=EVEYLN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KIM&fontColor=&type=rect&color=ffffff&animation=twinkling&fontSize=100&height=&fontAlignY=50" width="100%"
 />
 
-## Evelyn Kim— 당신에게 선물 같은 개발자 김나현입니다.
+## 🌱 ME — Hi, I'm Evelyn -@EvelynKr -@evelynKim
 
-## 🌱Me
+### 안녕하세요😊 당신에게 선물같은 개발자 김나현입니다.
 
-Hi, I'm Evelyn —@EvelynKr -@나현 김
+- 새로운 것을 공부하고, 시도하는 것을 좋아하며 뒤늦게 개발에 푹 빠져 공부를 시작한 프론트엔드 개발자입니다.
+- 좋아서 시도했던 다양한 분야의 작은 것들이 쌓여 이후 문제들을 풀어나가는 것에 활용되어 좋은 결과를 만들어낼 때 재미를 느낍니다.
 
-### 👀Interest
+<br />
 
-| I enjoy swimming, surf.
+<details>
+<summary>Personal Value</summary>
+    <div markdown="1">
+        <p>
 
-<details align="center">
+> "세상에는 `내`가 채울 수 있는 `틈`들이 무한히 존재한다고 생각합니다. <br /> 나는 그 틈을 채워나가는 `우리`가 되기를 기대합니다."<br />
+
+> "I think there are infinitely many 'gaps' that can be filled by 'me' in the world.<br /> I look forward to becoming a 'we' that fills that gap."
+
+        </p>
+    </div>
+
+</details>
+
+<details>
+<summary>Interest</summary>
+    <div markdown="1">
+        <p>
+            I enjoy swimming, surf.
+        </p>
+    </div>
+</details>
+
+<details>
     <summary>Finding Me</summary>
     <div markdown="1">
         <p>
@@ -28,54 +50,42 @@ Hi, I'm Evelyn —@EvelynKr -@나현 김
 
 <br />
 
-## Skills
+## 📬 CONTACT & CHANNEL
 
-#### 💻Core Competencies
-
-<img src="https://img.shields.io/badge/HTML-f5f5f5?style=flat-square&logo=HTML5&logoColor=000000"/>&nbsp;
-<img src="https://img.shields.io/badge/CSS-f5f5f5?style=flat-square&logo=CSS3&logoColor=000000"/>&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-f5f5f5?style=flat-square&logo=JavaScript&logoColor=000000"/>&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-f5f5f5?style=flat-square&logo=TypeScript&logoColor=000000"/>&nbsp;
-<img src="https://img.shields.io/badge/React-f5f5f5?style=flat-square&logo=React&logoColor=000000"/>
-
-#### sub Competencies
-
-#### 📌Tools
-
-<img src="https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=VSCode&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-
-### Frontend
-
-- HTML5, CSS3, Javascript
-- React
-
-### Backend
-
-- Java
-- spring
+- Resume | getting ready...
+- Portfolio | getting ready...
+- Email | evelynkim.kr@gmail.com
+- Github | https://github.com/evelynKr
+- Blog | getting ready...
 
 <br />
 
-## Projects
+## SKILLS
 
-## Experiences & Education
+- Front-end : <img src="https://img.shields.io/badge/HTML-f5f5f5?style=flat-square&logo=HTML5&logoColor=000000"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS-f5f5f5?style=flat-square&logo=CSS3&logoColor=000000"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-f5f5f5?style=flat-square&logo=JavaScript&logoColor=000000"/>&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-f5f5f5?style=flat-square&logo=TypeScript&logoColor=000000"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-f5f5f5?style=flat-square&logo=React&logoColor=000000"/>
+
+- Back-end :
+
+- Tools : <img src="https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=VSCode&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+
+<br />
+
+## EDUCATION & EXPERIENCES
 
 ### Multicampus(멀티캠퍼스)
 
 _2022.04 ~ 2022.08_
 
-- 부트캠프 멀티캠퍼스 15기 활동
+- **부트캠프** 멀티캠퍼스 15기 활동
 
 <br />
 
-##📬Contact & channel
+## PROJECTS
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-303d56?style=flat-square&logo=Gmail&logoColor=white&link=evelynkim.kr@gmail.com)](mailto:evelynkim.kr@gmail.com)
-
-- Github | https://github.com/evelynKr
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-303d56?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kim-evelyn-55633522b/)](https://www.linkedin.com/in/kim-evelyn-55633522b/)&nbsp;
-  [![Facebook Badge](https://img.shields.io/badge/facebook-303d56?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/evelynKim.kr)](https://www.facebook.com/evelynKim.kr)&nbsp;
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FevelynClosetCode&count_bg=%23D5DAFF&title_bg=%23BEB7FF&icon=badoo.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/evelynClosetCode/)
+<br />
