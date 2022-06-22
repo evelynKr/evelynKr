@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?text=EVEYLN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KIM&fontColor=&type=rect&color=ffffff&animation=twinkling&fontSize=100&height=&fontAlignY=50" width="100%"
+<img src="https://capsule-render.vercel.app/api?text=EVEYLN&nbsp;&nbsp;KIM&fontColor=&type=rect&color=ffffff&animation=twinkling&fontSize=140&height=&fontAlignY=60" width="100%"
 />
 
 ## 🌱 ME — Hi, I'm Evelyn -@EvelynKr -@evelynKim
@@ -14,11 +14,7 @@
 <summary>Personal Value</summary>
     <div markdown="1">
         <p>
-
-> "세상에는 `내`가 채울 수 있는 `틈`들이 무한히 존재한다고 생각합니다. <br /> 나는 그 틈을 채워나가는 `우리`가 되기를 기대합니다."<br />
-
-> "I think there are infinitely many 'gaps' that can be filled by 'me' in the world.<br /> I look forward to becoming a 'we' that fills that gap."
-
+        "세상에는 `내`가 채울 수 있는 `틈`들이 무한히 존재한다고 생각합니다. <br /> 나는 그 틈을 채워나가는 `우리`가 되기를 기대합니다."
         </p>
     </div>
 
@@ -60,7 +56,7 @@
 
 <br />
 
-## SKILLS
+## ⚙ SKILLS
 
 - Front-end : <img src="https://img.shields.io/badge/HTML-f5f5f5?style=flat-square&logo=HTML5&logoColor=000000"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS-f5f5f5?style=flat-square&logo=CSS3&logoColor=000000"/>&nbsp;
@@ -76,7 +72,7 @@
 
 <br />
 
-## EDUCATION & EXPERIENCES
+<!-- ## 🎓 EDUCATION & EXPERIENCES
 
 ### Multicampus(멀티캠퍼스)
 
@@ -84,8 +80,8 @@ _2022.04 ~ 2022.08_
 
 - **부트캠프** 멀티캠퍼스 15기 활동
 
-<br />
+<br /> -->
 
-## PROJECTS
+## 🧩 PROJECTS
 
 <br />
